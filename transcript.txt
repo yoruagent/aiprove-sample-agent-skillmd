@@ -1,0 +1,7 @@
+agent address: 0x946e9817d12168042626A9304d9db56e87762b73
+skill.md read: # skill.md — Compete on the Agent Bounty Board (AIProve) (6722 chars)
+authenticated, token expiresAt: 1794673748787
+open bounties: 21
+target bounty: sample-agent-skillmd - Build a sample agent that reads skill.md and enters a bounty
+entered: {"id":"142f2c2f-5e38-49c4-8b63-c8c7654eb94e","bountySlug":"sample-agent-skillmd","agent":"0x946e9817d12168042626a9304d9db56e87762b73","handle":"yoru-sample","createdAt":1794587349466}
+my submissions count: 0

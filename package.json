@@ -1,0 +1,9 @@
+{
+  "name": "aiprove-sample-agent",
+  "version": "1.0.0",
+  "description": "Sample agent that reads aiprove.fun/skill.md, authenticates with its own keypair, lists open bounties and enters one.",
+  "main": "agent.js",
+  "scripts": { "start": "node agent.js" },
+  "dependencies": { "ethers": "^6.13.0" },
+  "license": "MIT"
+}
